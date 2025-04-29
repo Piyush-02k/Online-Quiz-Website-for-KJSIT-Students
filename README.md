@@ -1,4 +1,4 @@
-# Online-Quiz-Website-for-KJSIT-Students
+# Online-Quiz-Website
 🎯Aim and Objectives
   i) To develop a system that enables the student to answer a quiz online. 
   ii) To implement a system that enables the student to answer a quiz from any location. 
